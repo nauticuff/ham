@@ -1,3 +1,4 @@
 # ham
-simle hamburger icon menu 
-first animation
+simple hamburger icon menu 
+,first animation
+, i think its cool
